@@ -6129,50 +6129,17 @@
           "availability": "yes",
           "fields": ["Management Sciences", "Computer Science", "Engineering"],
           "source": "website"
-        }},
-      [
-  {
-    "university": "Riphah International University",
-    "dataset_name": "Student Query Chatbot Training Data",
-    "version": "2.1",
-    "created_date": "2024-01-20",
-    "total_samples": 1050,
-    "categories": [
-      "fee_structure",
-      "academic_programs",
-      "admission_process",
-      "campus_facilities",
-      "faculty_info",
-      "student_life",
-      "scholarships_financial_aid",
-      "examinations_grades",
-      "hostel_accommodation",
-      "contact_info",
-      "about_university",
-      "sports_activities",
-      "social_activities",
-      "environment_activities",
-      "skills_development",
-      "career_services",
-      "general_policies",
-      "academic_support",
-      "student_support",
-      "academic_planning",
-      "academic_schedule"
-    ],
-    "data": [
-      
-      
-
+        }
+      },
       {
-        "id": 551,
+        "id": 549,
         "question": "Hi",
         "answer": "Hello! Welcome to Riphah International University. How can I assist you today?",
         "category": "general_policies",
         "intent": "greeting"
       },
       {
-        "id": 552,
+        "id": 550,
         "question": "Hello",
         "answer": "Hi there! I'm here to help you with information about Riphah International University. What would you like to know?",
         "category": "general_policies",
